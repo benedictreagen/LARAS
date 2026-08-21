@@ -1,0 +1,6 @@
+{
+  "name": "LARAS",
+  "description": "Sistem monitoring mutu pangan MBG (Makan Bergizi Gratis) berbasis sensor colorimetric antosianin rosela - Tim Kipas Kopdes 1,8 Triliun & Badan Gizi Nasional.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
