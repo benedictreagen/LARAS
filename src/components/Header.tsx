@@ -36,7 +36,7 @@ export const Header: React.FC<HeaderProps> = ({
               </span>
             </div>
             <p className="text-[9.5px] font-medium text-slate-500 tracking-tight flex items-center gap-1">
-              <span>Sistem Mutu Pangan</span>
+              <span>Label Indikator Rosela</span>
               <span className="text-slate-300">•</span>
               <span className="text-rose-800 font-semibold">Tim Kipas Kopdes 1,8 Triliun</span>
             </p>
